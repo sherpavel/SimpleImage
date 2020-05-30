@@ -3,7 +3,7 @@
 ## [Unreleased]
 - Gaussian blur
 
-## [1.0.0] - 2020-05-
+## [1.0.0] - 2020-05-30
 ### Added
 - `Image` class.
 - `ImageProcessing` class.
